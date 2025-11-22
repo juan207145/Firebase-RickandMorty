@@ -1,5 +1,5 @@
 {
-  "appId": "com.gatos.app",
-  "appName": "Gatos",
+  "appId": "com.RickMorty.app",
+  "appName": "RickMorty",
   "webDir": "dist"
 }
